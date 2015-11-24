@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: bd5fa97491ba046a5a0f77cfc48cf12b
+timeCreated: 1447761158
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OrcWalk_0
+    21300002: OrcWalk_1
+    21300004: OrcWalk_2
+    21300006: OrcWalk_3
+    21300008: OrcWalk_4
+    21300010: OrcWalk_5
+    21300012: OrcWalk_6
+    21300014: OrcWalk_7
+    21300016: OrcWalk_8
+    21300018: OrcWalk_9
+    21300020: OrcWalk_10
+    21300022: OrcWalk_11
+    21300024: OrcWalk_12
+    21300026: OrcWalk_13
+    21300028: OrcWalk_14
+    21300030: OrcWalk_15
+    21300032: OrcWalk_16
+    21300034: OrcWalk_17
+    21300036: OrcWalk_18
+    21300038: OrcWalk_19
+    21300040: OrcWalk_20
+    21300042: OrcWalk_21
+    21300044: OrcWalk_22
+    21300046: OrcWalk_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: OrcWalk_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1699
+        width: 224
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1699
+        width: 224
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1695
+        width: 241
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1695
+        width: 239
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_4
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1692
+        width: 249
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_5
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1692
+        width: 249
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_6
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1692
+        width: 252
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1328
+        width: 251
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1331
+        width: 253
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_9
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1331
+        width: 253
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_10
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1331
+        width: 251
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_11
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1331
+        width: 253
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_12
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1332
+        width: 250
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_13
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1332
+        width: 250
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 963
+        width: 241
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 963
+        width: 240
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_16
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 960
+        width: 219
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_17
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 960
+        width: 219
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_18
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 960
+        width: 185
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_19
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 960
+        width: 185
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_20
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 965
+        width: 172
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 600
+        width: 173
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 608
+        width: 181
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcWalk_23
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 608
+        width: 180
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
