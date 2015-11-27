@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 1465a86e587bd4fc2a56ece42f6bd117
+timeCreated: 1448571839
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Orc_Slow_0
+    21300002: Orc_Slow_1
+    21300004: Orc_Slow_2
+    21300006: Orc_Slow_3
+    21300008: Orc_Slow_4
+    21300010: Orc_Slow_5
+    21300012: Orc_Slow_6
+    21300014: Orc_Slow_7
+    21300016: Orc_Slow_8
+    21300018: Orc_Slow_9
+    21300020: Orc_Slow_10
+    21300022: Orc_Slow_11
+    21300024: Orc_Slow_12
+    21300026: Orc_Slow_13
+    21300028: Orc_Slow_14
+    21300030: Orc_Slow_15
+    21300032: Orc_Slow_16
+    21300034: Orc_Slow_17
+    21300036: Orc_Slow_18
+    21300038: Orc_Slow_19
+    21300040: Orc_Slow_20
+    21300042: Orc_Slow_21
+    21300044: Orc_Slow_22
+    21300046: Orc_Slow_23
+    21300048: Orc_Slow_24
+    21300050: Orc_Slow_25
+    21300052: Orc_Slow_26
+    21300054: Orc_Slow_27
+    21300056: Orc_Slow_28
+    21300058: Orc_Slow_29
+    21300060: Orc_Slow_30
+    21300062: Orc_Slow_31
+    21300064: Orc_Slow_32
+    21300066: Orc_Slow_33
+    21300068: Orc_Slow_34
+    21300070: Orc_Slow_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Orc_Slow_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1686
+        width: 194
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_1
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1684
+        width: 196
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1686
+        width: 194
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1682
+        width: 194
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_4
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1682
+        width: 198
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_5
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1682
+        width: 194
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_6
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1680
+        width: 194
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_7
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1680
+        width: 196
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1297
+        width: 194
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1296
+        width: 195
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1297
+        width: 196
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1296
+        width: 195
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_12
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1300
+        width: 198
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_13
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1300
+        width: 195
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_14
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1300
+        width: 198
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_15
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1300
+        width: 195
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 916
+        width: 198
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 916
+        width: 195
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 920
+        width: 200
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 920
+        width: 195
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_20
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 920
+        width: 200
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_21
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 912
+        width: 194
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_22
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 914
+        width: 194
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_23
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 912
+        width: 194
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 529
+        width: 201
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 529
+        width: 198
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 529
+        width: 201
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 530
+        width: 195
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_28
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 530
+        width: 200
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_29
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 530
+        width: 195
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_30
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 534
+        width: 194
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_31
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 533
+        width: 194
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 152
+        width: 194
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 158
+        width: 196
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_34
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 158
+        width: 194
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Slow_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 158
+        width: 196
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

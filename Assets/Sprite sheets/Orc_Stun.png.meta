@@ -1,0 +1,837 @@
+fileFormatVersion: 2
+guid: 1e609b2f02f09480b8ef072215c60207
+timeCreated: 1448571703
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Orc_Stun_0
+    21300002: Orc_Stun_1
+    21300004: Orc_Stun_2
+    21300006: Orc_Stun_3
+    21300008: Orc_Stun_4
+    21300010: Orc_Stun_5
+    21300012: Orc_Stun_6
+    21300014: Orc_Stun_7
+    21300016: Orc_Stun_8
+    21300018: Orc_Stun_9
+    21300020: Orc_Stun_10
+    21300022: Orc_Stun_11
+    21300024: Orc_Stun_12
+    21300026: Orc_Stun_13
+    21300028: Orc_Stun_14
+    21300030: Orc_Stun_15
+    21300032: Orc_Stun_16
+    21300034: Orc_Stun_17
+    21300036: Orc_Stun_18
+    21300038: Orc_Stun_19
+    21300040: Orc_Stun_20
+    21300042: Orc_Stun_21
+    21300044: Orc_Stun_22
+    21300046: Orc_Stun_23
+    21300048: Orc_Stun_24
+    21300050: Orc_Stun_25
+    21300052: Orc_Stun_26
+    21300054: Orc_Stun_27
+    21300056: Orc_Stun_28
+    21300058: Orc_Stun_29
+    21300060: Orc_Stun_30
+    21300062: Orc_Stun_31
+    21300064: Orc_Stun_32
+    21300066: Orc_Stun_33
+    21300068: Orc_Stun_34
+    21300070: Orc_Stun_35
+    21300072: Orc_Stun_36
+    21300074: Orc_Stun_37
+    21300076: Orc_Stun_38
+    21300078: Orc_Stun_39
+    21300080: Orc_Stun_40
+    21300082: Orc_Stun_41
+    21300084: Orc_Stun_42
+    21300086: Orc_Stun_43
+    21300088: Orc_Stun_44
+    21300090: Orc_Stun_45
+    21300092: Orc_Stun_46
+    21300094: Orc_Stun_47
+    21300096: Orc_Stun_48
+    21300098: Orc_Stun_49
+    21300100: Orc_Stun_50
+    21300102: Orc_Stun_51
+    21300104: Orc_Stun_52
+    21300106: Orc_Stun_53
+    21300108: Orc_Stun_54
+    21300110: Orc_Stun_55
+    21300112: Orc_Stun_56
+    21300114: Orc_Stun_57
+    21300116: Orc_Stun_58
+    21300118: Orc_Stun_59
+    21300120: Orc_Stun_60
+    21300122: Orc_Stun_61
+    21300124: Orc_Stun_62
+    21300126: Orc_Stun_63
+    21300128: Orc_Stun_64
+    21300130: Orc_Stun_65
+    21300132: Orc_Stun_66
+    21300134: Orc_Stun_67
+    21300136: Orc_Stun_68
+    21300138: Orc_Stun_69
+    21300140: Orc_Stun_70
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Orc_Stun_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3729
+        width: 228
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3729
+        width: 224
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3727
+        width: 220
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_3
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 3733
+        width: 224
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_4
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 3733
+        width: 224
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_5
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 3733
+        width: 224
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_6
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 3733
+        width: 228
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3363
+        width: 228
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3363
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3363
+        width: 226
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_10
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 3359
+        width: 226
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_11
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 3359
+        width: 222
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_12
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 3361
+        width: 224
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_13
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 3361
+        width: 224
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2989
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2989
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_16
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2989
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_17
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2989
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_18
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 2989
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_19
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 2989
+        width: 226
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_20
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2989
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2619
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2616
+        width: 226
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2619
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_24
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2616
+        width: 226
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_25
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 2619
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_26
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 2619
+        width: 226
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_27
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2616
+        width: 224
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2247
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2247
+        width: 226
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_30
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2247
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_31
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2247
+        width: 226
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_32
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 2247
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_33
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 2247
+        width: 226
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_34
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2247
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1877
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1877
+        width: 226
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_37
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1877
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_38
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1877
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_39
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1877
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_40
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1877
+        width: 226
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_41
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1877
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1503
+        width: 226
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1503
+        width: 226
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_44
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1507
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_45
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1503
+        width: 226
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_46
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1503
+        width: 224
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_47
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1503
+        width: 226
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_48
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1503
+        width: 224
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1135
+        width: 224
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_50
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1135
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_51
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1135
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_52
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1135
+        width: 226
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_53
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1135
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_54
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1135
+        width: 226
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_55
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1135
+        width: 224
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 764
+        width: 224
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_57
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 763
+        width: 226
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_58
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 763
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_59
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 764
+        width: 226
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_60
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 763
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_61
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 763
+        width: 226
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_62
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 763
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_63
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 391
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_64
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 392
+        width: 226
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_65
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 391
+        width: 224
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_66
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 391
+        width: 226
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_67
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 391
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_68
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 393
+        width: 226
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_69
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 393
+        width: 224
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orc_Stun_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

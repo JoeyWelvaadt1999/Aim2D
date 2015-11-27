@@ -1,16 +1,20 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class TurretUnit : MonoBehaviour {
-	[SerializeField]private float _radius;
-	[SerializeField]private float _rate;
-	[SerializeField]private float _power;
+	[SerializeField]private Text _costsText;
+	[SerializeField]protected float _radius;
+	[SerializeField]protected float _rate;
+	[SerializeField]protected float _power;
 	[SerializeField]private float _increase;
 	[SerializeField]private int _maxLevel;
 	[SerializeField]private Sprite[] _upgradeSprites;
 
+	private PlayerResources _pr;
 	private SpriteRenderer _sr;
 	private int _level = 1;
+	private int _costs;
 	private float _waitTime;
 	private float _time;
 
@@ -27,15 +31,29 @@ public class TurretUnit : MonoBehaviour {
 		}
 	}
 
+	public float Radius {
+		get {
+			return _radius;
+		}
+	}
+
+	public float Rate {
+		get {
+			return _rate;
+		}
+	}
+
 	void Awake() {
 		_sr = GetComponent<SpriteRenderer>();
+		_pr = FindObjectOfType<PlayerResources>();
+		_costsText = GameObject.Find("UpgradeCosts").GetComponent<Text>();
 	}
 
 	void Update ()
 	{
 		Rotate ();
 		Shoot ();
-		
+		_costsText.text = _costs.ToString();
 	}
 
 	private GameObject GetTarget() {
@@ -55,12 +73,17 @@ public class TurretUnit : MonoBehaviour {
 	}
 
 	public void LevelUp() {
-		if(_level < _maxLevel) {
-			_power += _increase;
-			_rate += _increase;
-			_radius += _increase;
-			_level++;
-			_sr.sprite = _upgradeSprites[_level - 1];
+		_costs = 100 + 300 * (_level + (int)_power);
+		Debug.Log (_costs);
+		if(_pr.Resources >= _costs) {
+			if(_level < _maxLevel) {
+				_power += _increase;
+				_rate += _increase;
+				_radius += _increase;
+				_level++;
+				_sr.sprite = _upgradeSprites[_level - 2];
+				_pr.RemoveResources(_costs);
+			}
 		}
 	}
 

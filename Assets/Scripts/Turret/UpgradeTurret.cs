@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.Events;
 using System.Collections;
 
-public class UIUpgradeTurret : MonoBehaviour {
+public class UpgradeTurret : MonoBehaviour {
 	public void Upgrade() {
 		TurretSelected[] wTurrets = GameObject.FindObjectsOfType<TurretSelected>();
 		Debug.Log(wTurrets.Length);
@@ -13,7 +13,5 @@ public class UIUpgradeTurret : MonoBehaviour {
 				wTurrets[i].GetComponent<TurretUnit>().LevelUp();
 			}
 		}
-			
-
 	}
 }

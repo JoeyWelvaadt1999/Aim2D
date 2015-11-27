@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 1cca022a5ac4648acaad414443495d55
+timeCreated: 1448569494
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OrcIgnite_0
+    21300002: OrcIgnite_1
+    21300004: OrcIgnite_2
+    21300006: OrcIgnite_3
+    21300008: OrcIgnite_4
+    21300010: OrcIgnite_5
+    21300012: OrcIgnite_6
+    21300014: OrcIgnite_7
+    21300016: OrcIgnite_8
+    21300018: OrcIgnite_9
+    21300020: OrcIgnite_10
+    21300022: OrcIgnite_11
+    21300024: OrcIgnite_12
+    21300026: OrcIgnite_13
+    21300028: OrcIgnite_14
+    21300030: OrcIgnite_15
+    21300032: OrcIgnite_16
+    21300034: OrcIgnite_17
+    21300036: OrcIgnite_18
+    21300038: OrcIgnite_19
+    21300040: OrcIgnite_20
+    21300042: OrcIgnite_21
+    21300044: OrcIgnite_22
+    21300046: OrcIgnite_23
+    21300048: OrcIgnite_24
+    21300050: OrcIgnite_25
+    21300052: OrcIgnite_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: OrcIgnite_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1699
+        width: 225
+        height: 340
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1699
+        width: 225
+        height: 340
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1696
+        width: 239
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1696
+        width: 239
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_4
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1693
+        width: 249
+        height: 346
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_5
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1693
+        width: 249
+        height: 346
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_6
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1692
+        width: 251
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1325
+        width: 251
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1328
+        width: 250
+        height: 343
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_10
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1328
+        width: 251
+        height: 338
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_11
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1328
+        width: 251
+        height: 338
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_12
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1330
+        width: 250
+        height: 338
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_13
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1330
+        width: 250
+        height: 341
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1327
+        width: 250
+        height: 346
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 957
+        width: 240
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 957
+        width: 240
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 955
+        width: 218
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_19
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 955
+        width: 218
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_20
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 956
+        width: 185
+        height: 348
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_22
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 956
+        width: 185
+        height: 347
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_23
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 959
+        width: 170
+        height: 338
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 592
+        width: 169
+        height: 339
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_25
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 599
+        width: 180
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcIgnite_26
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 599
+        width: 180
+        height: 338
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

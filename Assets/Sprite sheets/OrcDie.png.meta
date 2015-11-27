@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: bede4d31ff46641debab9cebd4c9eb47
+timeCreated: 1448569871
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OrcDie_0
+    21300002: OrcDie_1
+    21300004: OrcDie_2
+    21300006: OrcDie_3
+    21300008: OrcDie_4
+    21300010: OrcDie_5
+    21300012: OrcDie_6
+    21300014: OrcDie_7
+    21300016: OrcDie_8
+    21300018: OrcDie_9
+    21300020: OrcDie_10
+    21300022: OrcDie_11
+    21300024: OrcDie_12
+    21300026: OrcDie_13
+    21300028: OrcDie_14
+    21300030: OrcDie_15
+    21300032: OrcDie_16
+    21300034: OrcDie_17
+    21300036: OrcDie_18
+    21300038: OrcDie_19
+    21300040: OrcDie_20
+    21300042: OrcDie_21
+    21300044: OrcDie_22
+    21300046: OrcDie_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: OrcDie_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3729
+        width: 226
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3729
+        width: 224
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_2
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 3727
+        width: 220
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_3
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 3733
+        width: 224
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_4
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 3733
+        width: 224
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3297
+        width: 224
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 3297
+        width: 226
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_7
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 3297
+        width: 228
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_8
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3297
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_9
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 3297
+        width: 226
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2855
+        width: 224
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_11
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2855
+        width: 227
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_12
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2855
+        width: 216
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_13
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 2855
+        width: 218
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_14
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 2845
+        width: 214
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2409
+        width: 216
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2375
+        width: 230
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_17
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2375
+        width: 228
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_18
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2367
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_19
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2367
+        width: 266
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1949
+        width: 262
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1949
+        width: 262
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_22
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1937
+        width: 260
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrcDie_23
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1937
+        width: 258
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

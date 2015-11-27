@@ -6,7 +6,9 @@ public class EnemyCollision : MonoBehaviour {
 
 	void OnTriggerEnter2D(Collider2D coll) {
 		_bh = coll.GetComponent<BulletHit>();
-		_bh.Hit(this.gameObject);
-		Destroy(coll.gameObject);
+		if(_bh != null) {
+			_bh.Hit(this.gameObject);
+			Destroy(coll.gameObject);
+		}
 	}
 }

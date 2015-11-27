@@ -26,10 +26,6 @@ public class Path : MonoBehaviour {
 				}
 			}
 		}
-	
-		if(newWaypoint == null) {
-			GetComponentInParent<EnemyDie>().Die(true,0);
-		}
 		return newWaypoint;
 	}
 
